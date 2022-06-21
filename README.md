@@ -47,4 +47,4 @@
 <img href="https://raw.githubusercontent.com/carlosalbertoestrela/carlosalbertoestrela/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-Profile Readme Generator
+
