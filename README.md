@@ -39,6 +39,8 @@
   
 </div>
 
+     
+ ![Snake animation](https://github.com/erosamorim/erosamorim/blob/output/github-contribution-grid-snake.svg)
 ###
 
 
